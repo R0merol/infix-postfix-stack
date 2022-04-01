@@ -1,0 +1,6 @@
+# ninja log v5
+2	493	6704814041432442	CMakeFiles/postfix_stack.dir/main.cpp.obj	8031877c115bb8ea
+494	615	6704814042615748	postfix_stack.exe	72de195b0dca2034
+3	298	6704816900351957	build.ninja	e07ed72996ee6a97
+0	679	6704816909284447	CMakeFiles/postfix_stack.dir/infix-postfix-stack.cpp.obj	c98a4402ec7cfe7e
+680	791	6704816910384820	postfix_stack.exe	57e737d9392df629
